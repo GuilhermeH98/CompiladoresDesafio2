@@ -1,9 +1,9 @@
-((Primeira linha)[)]
-{(segunda linha})
-{terceira linha}
-[{()(Quarta linha)}[]]
-{[quinta linha]} 
-{}()[(sexta linha)]]
-)[{setima linha}]()(
+(()[)]
+{(})
+{}
+[{()()}[]]
+{[]} 
+{}()[()]]
+)[{}]()(
 
 

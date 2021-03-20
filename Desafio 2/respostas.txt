@@ -1,0 +1,7 @@
+(()[)]	 invalido
+{(})	 invalido
+{}	 OK
+[{()()}[]]	 OK
+{[]} 	 OK
+{}()[()]]	 invalido
+)[{}]()(	 invalido
